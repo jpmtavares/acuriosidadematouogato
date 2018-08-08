@@ -1,8 +1,10 @@
 # acuriosidadematouogato
-projectos realizados em [acuriosidadematouogato.com] (https://acuriosidadematouogato.com)
+projectos realizados em https://acuriosidadematouogato.com
 
 ---
 
 autoras:
-[Joana Manique] (https://github.com/joanamanique)
-[Joana Tavares] (https://github.com/jpmtavares)
+
+[Joana Manique](https://github.com/joanamanique)
+
+[Joana Tavares](https://github.com/jpmtavares)
